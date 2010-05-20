@@ -1,0 +1,8 @@
+Deploy:
+jekyll && rsync -e "ssh -p 44022" -avz --delete _site/ xbelanch@xbelanch.net:/var/www/xbelanch/site
+
+More info:
+
+* http://www.vicente-navarro.com/blog/2008/01/13/autentificacion-trasparente-por-clave-publicaprivada-con-openssh/
+* http://www.vicente-navarro.com/blog/2008/01/13/backups-con-rsync/
+* http://www.esdebian.org/wiki/rsync-ssh-transporte-autenticacion-mediante-claves-sin-frase
