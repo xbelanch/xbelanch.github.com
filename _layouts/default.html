@@ -1,14 +1,54 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <title>xbelanch - {{ page.title }}</title>
+<!DOCTYPE html>
+<html dir="ltr" lang="es">
+<head>
+	<meta charset=utf-8>
+    <title>{{ page.title }}</title>
+	<meta name="author" content="Xavier Belanche" /> 
+	<meta name="description" content="blog de Xavier Belanche" />
  	<link href='http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica+SC' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/stylesheets/reset.css" type="text/css" media="screen" title="master" charset="utf-8">
 	<link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" title="master" charset="utf-8">
-  </head>
-  <body>
-	{{ content }}
-  </body>
+	<!-- Typekit --> 
+	<script type="text/javascript" src="http://use.typekit.com/efe6xzb.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+	<header role="banner">
+		<hgroup>
+			<h1 class="logo"><a href="http://xbelanch.net">xbelanch.net</a></h1>
+			<h2 class="strapline">lorem ipsum dolor est...</h2>
+		</hgroup>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+		</ul>
+	</nav>
+	
+	<div id="content">
+		{{ content }}
+  	</div>
+	<aside>
+		
+	</aside>
+	<footer role="contentinfo">
+		<p><small>Esta página está sujeta a la licencia...</small></p>
+	</footer>
+	<a href="http://github.com/xbelanch"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
+	<script type="text/javascript">
+	//<![CDATA[
+	(function() {
+		var links = document.getElementsByTagName('a');
+		var query = '?';
+		for(var i = 0; i < links.length; i++) {
+		if(links[i].href.indexOf('#disqus_thread') >= 0) {
+			query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+		}
+		}
+		document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/xbelanch/get_num_replies.js' + query + '"></' + 'script>');
+	})();
+	//]]>
+	</script>
+	
+</body>
 </html>
