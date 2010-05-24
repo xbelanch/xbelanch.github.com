@@ -16,7 +16,6 @@ header {
 
 h1 {
 	font-size: 120%;
-	text-shadow: #666677 0 0 1px;
 	color: #333;
 	font-weight: bold;
 }
@@ -33,7 +32,42 @@ h1 a:hover {
 h2 {
 	font-size: 80%;
 	font-style: italic;
+	text-align: center;
 }
+
+ul.posts {
+	list-style-type: none;
+	margin-bottom: 2em;
+}
+
+ul.posts li {
+	line-height: 1.75em;
+}
+
+ul.posts span {
+	color: #aaa;
+}
+
+
+ul#devices {
+	list-style-type: none;
+}
+
+ul#devices li {
+	line-height: 1.75em;
+}
+
+#download {
+	margin-top: 2em;
+	background: #EEEEEE;
+	border-left:1px solid #DDDDDD;
+	border-right:1px solid #DDDDDD;
+	margin-right:32px;
+	padding:15px;
+}
+
+
+
 
 
 /*---- Content ----*/
