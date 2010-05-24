@@ -44,9 +44,13 @@ ul.posts li {
 	line-height: 1.75em;
 }
 
-ul.posts span {
+ul.posts span, #content h1 + p  {
+	font-size: 85%;
 	color: #aaa;
+	font-family: Menlo, "Courier New", monospace;
 }
+
+
 
 
 ul#devices {
@@ -57,17 +61,37 @@ ul#devices li {
 	line-height: 1.75em;
 }
 
-#download {
-	margin-top: 2em;
-	background: #EEEEEE;
-	border-left:1px solid #DDDDDD;
-	border-right:1px solid #DDDDDD;
-	margin-right:32px;
-	padding:15px;
+#devices {
+	font-size: 80%;
 }
 
+.outputdevice {
+	display:inline-block;
+	margin: 0 1em;
+	text-align: center;
+}
 
+.kindle {
+	width: 55px;
+}
 
+.epub {
+	width: 47px;
+}
+
+.outputdevice a {
+	text-decoration: none;
+}
+
+.outputdevice img {
+	padding-bottom: 0;
+}
+
+.contact {
+	float:left;
+	margin-right:3em;
+	text-align: justify;
+}
 
 
 /*---- Content ----*/
@@ -76,26 +100,53 @@ ul#devices li {
 	margin: 3em 5em 3em;
 }
 
+#content h1 {
+	font-size: 180%;
+	margin-top: 2em;
+}
+
 #content h2 {
 	font-size: 120%;
 	font-style: normal;
 	margin-bottom: 2em;
+	text-align: left;
+}
+
+#content h2 {
+	font-size: 110%;
+	margin-bottom: 1em;
 }
 
 #content p {
 	margin: 1em 0 2em;
 }
 
+#content blockquote {
+	text-indent: 1em;
+	font-style: italic;
+	color: #777;
+	font-size: 100%;
+	line-height: 1.4em;
+	margin-bottom: 2em;
+	text-align: left;
+}
+
+#content blockquote > p {
+	margin: 0.5em;
+}
+
+#content blockquote > p + p {
+	text-align: right;
+	font-style: normal;
+	font-size: 85%;
+}
+
 
 /*---- footer ----*/
 
 footer {
-	position: fixed;
-	bottom: 0px;
-	height: 25px;
-	background-color: #ccc;
+	border-top: 4px solid #eee;
 	text-align: center;
 	color: #3e3e3e;
-	width: 100%;
 	font-size: 80%;
 }

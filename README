@@ -1,3 +1,5 @@
+El contenido de los directorios _posts son Copyright de Xavier Belanche. Puedes distribuir los artículos, sin ánimo de lucro, pero no puedes reutilizarlos o modificarlos sin mi permiso.
+
 Deploy:
 jekyll && rsync -e "ssh -p 44022" -avz --delete _site/ xbelanch@xbelanch.net:/var/www/xbelanch/site
 

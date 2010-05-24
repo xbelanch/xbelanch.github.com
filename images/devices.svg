@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Documento nuevo 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4076"
+       inkscape:collect="always">
+      <stop
+         id="stop4078"
+         offset="0"
+         style="stop-color:#b3b3b3;stop-opacity:1" />
+      <stop
+         id="stop4080"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4070"
+       inkscape:collect="always">
+      <stop
+         id="stop4072"
+         offset="0"
+         style="stop-color:#b3b3b3;stop-opacity:1" />
+      <stop
+         id="stop4074"
+         offset="1"
+         style="stop-color:#333333;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4022">
+      <stop
+         style="stop-color:#333333;stop-opacity:1"
+         offset="0"
+         id="stop4024" />
+      <stop
+         style="stop-color:#8d8d8d;stop-opacity:0;"
+         offset="1"
+         id="stop4026" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4010">
+      <stop
+         style="stop-color:#0b0b0b;stop-opacity:1;"
+         offset="0"
+         id="stop4012" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4014" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3998">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop4000" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop4002" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3988">
+      <stop
+         style="stop-color:#454545;stop-opacity:1;"
+         offset="0"
+         id="stop3990" />
+      <stop
+         style="stop-color:#454545;stop-opacity:0;"
+         offset="1"
+         id="stop3992" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3965"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3963"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3961"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3959"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3957"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3955"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3749"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3745"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3737"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3735"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3733"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3731"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3713"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3709"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3705"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3701"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3691">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0"
+         id="stop3693" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:0;"
+         offset="1"
+         id="stop3695" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3683">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3685" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop3687" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2884"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3683"
+       id="linearGradient3689"
+       x1="407.62692"
+       y1="460.89276"
+       x2="403.24973"
+       y2="246.40984"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3691"
+       id="linearGradient3697"
+       x1="335.40311"
+       y1="615.18915"
+       x2="359.47772"
+       y2="238.20259"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3691"
+       id="linearGradient3727"
+       gradientUnits="userSpaceOnUse"
+       x1="335.40311"
+       y1="615.18915"
+       x2="359.47772"
+       y2="238.20259"
+       gradientTransform="matrix(0.2373057,0,0,0.2373057,710.43629,306.43693)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3683"
+       id="linearGradient3729"
+       gradientUnits="userSpaceOnUse"
+       x1="407.62692"
+       y1="460.89276"
+       x2="403.24973"
+       y2="246.40984"
+       gradientTransform="matrix(0.2373057,0,0,0.2373057,710.43629,306.43693)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3691"
+       id="linearGradient3951"
+       gradientUnits="userSpaceOnUse"
+       x1="335.40311"
+       y1="615.18915"
+       x2="359.47772"
+       y2="238.20259"
+       gradientTransform="matrix(0.23852232,0,0,0.23852232,773.28725,306.04095)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3683"
+       id="linearGradient3953"
+       gradientUnits="userSpaceOnUse"
+       x1="407.62692"
+       y1="460.89276"
+       x2="403.24973"
+       y2="246.40984"
+       gradientTransform="matrix(0.23852232,0,0,0.23852232,773.28725,306.04095)" />
+    <inkscape:perspective
+       id="perspective3975"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3988"
+       id="linearGradient3994"
+       x1="83.518913"
+       y1="527.07721"
+       x2="109.3412"
+       y2="289.74042"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3998"
+       id="linearGradient4004"
+       x1="164.10362"
+       y1="449.24301"
+       x2="173.31369"
+       y2="449.24301"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4010"
+       id="linearGradient4016"
+       x1="-22.744041"
+       y1="443.66995"
+       x2="-20.045595"
+       y2="443.66995"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4022"
+       id="linearGradient4028"
+       x1="21.683592"
+       y1="560.88434"
+       x2="-8.3614817"
+       y2="586.62842"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4022"
+       id="linearGradient4032"
+       gradientUnits="userSpaceOnUse"
+       x1="21.683592"
+       y1="560.88434"
+       x2="-8.3614817"
+       y2="586.62842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3988"
+       id="linearGradient4054"
+       gradientUnits="userSpaceOnUse"
+       x1="83.518913"
+       y1="527.07721"
+       x2="109.3412"
+       y2="289.74042"
+       gradientTransform="matrix(0.24224034,0,0,0.24224034,920.62696,309.56705)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4070"
+       id="linearGradient4056"
+       gradientUnits="userSpaceOnUse"
+       x1="149.32135"
+       y1="449.24301"
+       x2="169.42461"
+       y2="449.24301"
+       gradientTransform="matrix(0.24224034,0,0,0.24224034,920.62694,309.56705)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4076"
+       id="linearGradient4058"
+       gradientUnits="userSpaceOnUse"
+       x1="-22.744041"
+       y1="443.66995"
+       x2="-20.045595"
+       y2="443.66995"
+       gradientTransform="matrix(0.24224034,0,0,0.24224034,920.62694,309.56705)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4022"
+       id="linearGradient4060"
+       gradientUnits="userSpaceOnUse"
+       x1="21.683592"
+       y1="560.88434"
+       x2="-8.3614817"
+       y2="586.62842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4022"
+       id="linearGradient4062"
+       gradientUnits="userSpaceOnUse"
+       x1="21.683592"
+       y1="560.88434"
+       x2="-8.3614817"
+       y2="586.62842" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.61467"
+     inkscape:cx="956.66321"
+     inkscape:cy="628.35233"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1663"
+     inkscape:window-height="1213"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="341.42184,762.49588"
+       id="guide2891" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="371.58141,418.75407"
+       id="guide2893" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="320.54213,555.63214"
+       id="guide2895" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="551.37886,526.63255"
+       id="guide2897" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="358.82159,734.65627"
+       id="guide2899" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="391.68779,524.69924"
+       id="guide2901" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="357.66161,652.29744"
+       id="guide2903" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="512.71274,628.32444"
+       id="guide2905" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="849.56298,680.83033"
+       id="guide4064" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="904.84052,598.01831"
+       id="guide4066" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="894.81622,595.06998"
+       id="guide4068" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="210.93359"
+       x="241.78566"
+       id="image2886"
+       height="500"
+       width="385"
+       xlink:href="file:///Users/xbelanch/Desktop/3782589254_3043c8aee0.jpg" />
+    <image
+       y="312.36218"
+       x="-29"
+       id="image3977"
+       height="309"
+       width="309"
+       xlink:href="file:///Users/xbelanch/Desktop/inkscape_pasted_image_20100524_182853.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="kindle"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient3697);fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1"
+       id="rect2907"
+       width="230.83673"
+       height="343.74182"
+       x="320.54214"
+       y="289.8663"
+       ry="17.013092" />
+    <rect
+       style="fill:url(#linearGradient3689);fill-opacity:1;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3681"
+       width="155.05113"
+       height="209.95703"
+       x="357.66159"
+       y="317.7059"
+       ry="3.6999683" />
+    <path
+       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 320.253,423.2783 16.48255,0 1.735,2.60251 0,100.4857 -2.16875,1.30125 -15.75963,0"
+       id="path3699"
+       inkscape:path-effect="#path-effect3701"
+       inkscape:original-d="m 320.253,423.2783 16.48255,0 1.735,2.60251 0,100.4857 -2.16875,1.30125 -15.75963,0" />
+    <path
+       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 320.253,458.55673 17.06088,0"
+       id="path3703"
+       inkscape:path-effect="#path-effect3705"
+       inkscape:original-d="m 320.253,458.55673 17.06088,0" />
+    <path
+       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 549.96891,423.49586 -15.67668,0 -1.54197,1.54197 0,100.74197 1.92746,1.67047 15.0342,0"
+       id="path3707"
+       inkscape:path-effect="#path-effect3709"
+       inkscape:original-d="m 549.96891,423.49586 -15.67668,0 -1.54197,1.54197 0,100.74197 1.92746,1.67047 15.0342,0" />
+    <path
+       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 534.29223,458.70415 15.67668,0"
+       id="path3711"
+       inkscape:path-effect="#path-effect3713"
+       inkscape:original-d="m 534.29223,458.70415 15.67668,0" />
+    <rect
+       ry="4.0373039"
+       y="375.22385"
+       x="786.50275"
+       height="81.571892"
+       width="54.778873"
+       id="rect3715"
+       style="fill:url(#linearGradient3727);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.2373057;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.87802356"
+       y="381.83035"
+       x="795.3114"
+       height="49.824001"
+       width="36.794518"
+       id="rect3717"
+       style="fill:url(#linearGradient3729);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.2373057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 786.43415,406.88328 3.91141,0 0.41172,0.61759 0,23.84583 -0.51466,0.3088 -3.73985,0"
+       inkscape:path-effect="#path-effect3731"
+       id="path3719"
+       d="m 786.43415,406.88328 3.91141,0 0.41172,0.61759 0,23.84583 -0.51466,0.3088 -3.73985,0"
+       style="fill:none;stroke:#858585;stroke-width:0.2373057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 786.43415,415.25506 4.04865,0"
+       inkscape:path-effect="#path-effect3733"
+       id="path3721"
+       d="m 786.43415,415.25506 4.04865,0"
+       style="fill:none;stroke:#858585;stroke-width:0.2373057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 840.94705,406.93491 -3.72017,0 -0.36592,0.36592 0,23.90664 0.4574,0.39642 3.5677,0"
+       inkscape:path-effect="#path-effect3735"
+       id="path3723"
+       d="m 840.94705,406.93491 -3.72017,0 -0.36592,0.36592 0,23.90664 0.4574,0.39642 3.5677,0"
+       style="fill:none;stroke:#858585;stroke-width:0.2373057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 837.22688,415.29004 3.72017,0"
+       inkscape:path-effect="#path-effect3737"
+       id="path3725"
+       d="m 837.22688,415.29004 3.72017,0"
+       style="fill:none;stroke:#858585;stroke-width:0.2373057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Desktop/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#858585;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3739"
+       width="20.201662"
+       height="19.648191"
+       x="524.13629"
+       y="555.48431"
+       ry="6.5032754" />
+    <rect
+       style="fill:none;stroke:#858585;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3741"
+       width="8.9938908"
+       height="8.7171555"
+       x="529.80933"
+       y="561.29578" />
+    <path
+       style="fill:none;stroke:#929292;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 549.45752,538.46512 -15.35879,0 -1.52205,1.79878 0,14.39022"
+       id="path3743"
+       inkscape:path-effect="#path-effect3745"
+       inkscape:original-d="m 549.45752,538.46512 -15.35879,0 -1.52205,1.79878 0,14.39022" />
+    <path
+       style="fill:none;stroke:#8d8d8d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 532.57668,576.79293 0,13.00655 2.62899,2.07551 13.97512,0"
+       id="path3747"
+       inkscape:path-effect="#path-effect3749"
+       inkscape:original-d="m 532.57668,576.79293 0,13.00655 2.62899,2.07551 13.97512,0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3751"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(-4.7044965,-4.9812316)" />
+    <path
+       transform="translate(10.792669,-4.9812316)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3753"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3755"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(26.428202,-4.9812316)" />
+    <path
+       transform="translate(41.371897,-4.9812316)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3757"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3759"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(57.145797,-4.9812316)" />
+    <path
+       transform="translate(71.812757,-4.9812316)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3761"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3763"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(87.44829,-4.9812316)" />
+    <path
+       transform="translate(102.53035,-4.9812316)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3765"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3767"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(117.61241,-4.9812316)" />
+    <path
+       transform="translate(133.24794,-4.9812316)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3769"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       transform="translate(-4.7044965,9.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3771"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3773"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(10.792669,9.018768)" />
+    <path
+       transform="translate(26.428202,9.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3775"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3777"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(41.371897,9.018768)" />
+    <path
+       transform="translate(57.145797,9.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3779"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3781"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(71.812757,9.018768)" />
+    <path
+       transform="translate(87.44829,9.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3783"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3785"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(102.53035,9.018768)" />
+    <path
+       transform="translate(117.61241,9.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3787"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3789"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(133.24794,9.018768)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3791"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(-4.7044965,23.018768)" />
+    <path
+       transform="translate(10.792669,23.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3793"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3795"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(26.428202,23.018768)" />
+    <path
+       transform="translate(41.371897,23.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3797"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3799"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(57.145797,23.018768)" />
+    <path
+       transform="translate(71.812757,23.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3801"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3803"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(87.44829,23.018768)" />
+    <path
+       transform="translate(102.53035,23.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3805"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3807"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(117.61241,23.018768)" />
+    <path
+       transform="translate(133.24794,23.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3809"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       transform="translate(-4.7044965,35.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3811"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3813"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(10.792669,35.018768)" />
+    <path
+       transform="translate(26.428202,35.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3815"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3817"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(41.371897,35.018768)" />
+    <path
+       transform="translate(57.145797,35.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3819"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3821"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(71.812757,35.018768)" />
+    <path
+       transform="translate(87.44829,35.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3823"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3825"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(102.53035,35.018768)" />
+    <path
+       transform="translate(117.61241,35.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3827"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3829"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(133.24794,35.018768)" />
+    <path
+       transform="translate(10.792669,49.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3831"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3833"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(26.428202,49.018768)" />
+    <path
+       transform="translate(102.53035,49.018768)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3835"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3837"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="translate(117.61241,49.018768)" />
+    <rect
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3839"
+       width="55.713589"
+       height="10.292484"
+       x="407.6716"
+       y="608.51776"
+       ry="5.1462421" />
+    <rect
+       ry="4.058002"
+       y="375.18054"
+       x="849.74365"
+       height="81.990097"
+       width="55.059715"
+       id="rect3841"
+       style="fill:url(#linearGradient3951);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.23852232;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.88252503"
+       y="381.82086"
+       x="858.59753"
+       height="50.079437"
+       width="36.983158"
+       id="rect3843"
+       style="fill:url(#linearGradient3953);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.23852232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 849.67474,407.00227 3.93146,0 0.41383,0.62075 0,23.96809 -0.5173,0.31038 -3.75902,0"
+       inkscape:path-effect="#path-effect3955"
+       id="path3845"
+       d="m 849.67474,407.00227 3.93146,0 0.41383,0.62075 0,23.96809 -0.5173,0.31038 -3.75902,0"
+       style="fill:none;stroke:#858585;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 849.67474,415.41696 4.06941,0"
+       inkscape:path-effect="#path-effect3957"
+       id="path3847"
+       d="m 849.67474,415.41696 4.06941,0"
+       style="fill:none;stroke:#858585;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 904.46711,407.05416 -3.73924,0 -0.36778,0.3678 0,24.0292 0.45973,0.39845 3.58598,0"
+       inkscape:path-effect="#path-effect3959"
+       id="path3849"
+       d="m 904.46711,407.05416 -3.73924,0 -0.36778,0.3678 0,24.0292 0.45973,0.39845 3.58598,0"
+       style="fill:none;stroke:#858585;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 900.72787,415.45212 3.73924,0"
+       inkscape:path-effect="#path-effect3961"
+       id="path3851"
+       d="m 900.72787,415.45212 3.73924,0"
+       style="fill:none;stroke:#858585;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="1.5511763"
+       y="438.53635"
+       x="898.30548"
+       height="4.686532"
+       width="4.8185472"
+       id="rect3853"
+       style="fill:none;stroke:#858585;stroke-width:0.21467008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="439.92249"
+       x="899.65863"
+       height="2.0792363"
+       width="2.1452436"
+       id="rect3855"
+       style="fill:none;stroke:#858585;stroke-width:0.21467008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 904.34513,434.4769 -3.66342,0 -0.36303,0.42904 0,3.43239"
+       inkscape:path-effect="#path-effect3963"
+       id="path3857"
+       d="m 904.34513,434.4769 -3.66342,0 -0.36303,0.42904 0,3.43239"
+       style="fill:none;stroke:#929292;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:original-d="m 900.31868,443.61893 0,3.10236 0.62708,0.49505 3.33337,0"
+       inkscape:path-effect="#path-effect3965"
+       id="path3859"
+       d="m 900.31868,443.61893 0,3.10236 0.62708,0.49505 3.33337,0"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.23852232px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,772.16512,304.85281)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3861"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3863"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,775.86155,304.85281)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,779.59097,304.85281)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3865"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3867"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,783.15538,304.85281)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,786.91781,304.85281)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3869"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3871"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,790.4162,304.85281)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,794.14563,304.85281)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3873"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3875"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,797.74304,304.85281)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,801.34043,304.85281)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3877"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3879"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,805.06986,304.85281)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3881"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,772.16512,308.19212)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,775.86155,308.19212)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3883"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3885"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,779.59097,308.19212)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,783.15538,308.19212)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3887"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3889"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,786.91781,308.19212)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,790.4162,308.19212)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3891"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3893"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,794.14563,308.19212)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,797.74304,308.19212)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3895"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3897"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,801.34043,308.19212)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,805.06986,308.19212)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3899"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,772.16512,311.53144)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3901"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3903"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,775.86155,311.53144)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,779.59097,311.53144)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3905"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3907"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,783.15538,311.53144)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,786.91781,311.53144)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3909"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3911"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,790.4162,311.53144)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,794.14563,311.53144)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3913"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3915"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,797.74304,311.53144)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,801.34043,311.53144)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3917"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3919"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,805.06986,311.53144)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3921"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,772.16512,314.39371)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,775.86155,314.39371)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3923"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3925"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,779.59097,314.39371)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,783.15538,314.39371)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3927"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3929"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,786.91781,314.39371)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,790.4162,314.39371)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3931"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3933"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,794.14563,314.39371)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,797.74304,314.39371)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3935"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3937"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,801.34043,314.39371)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,805.06986,314.39371)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3939"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3941"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,775.86155,317.73302)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,779.59097,317.73302)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3943"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3945"
+       sodipodi:cx="371.44766"
+       sodipodi:cy="563.99396"
+       sodipodi:rx="5.0504155"
+       sodipodi:ry="5.0504155"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       transform="matrix(0.23852232,0,0,0.23852232,797.74304,317.73302)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.23852232,0,0,0.23852232,801.34043,317.73302)"
+       d="m 376.49808,563.99396 a 5.0504155,5.0504155 0 1 1 -10.10083,0 5.0504155,5.0504155 0 1 1 10.10083,0 z"
+       sodipodi:ry="5.0504155"
+       sodipodi:rx="5.0504155"
+       sodipodi:cy="563.99396"
+       sodipodi:cx="371.44766"
+       id="path3947"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="1.2274936"
+       y="451.18597"
+       x="870.52606"
+       height="2.4549873"
+       width="13.288934"
+       id="rect3949"
+       style="fill:none;stroke:#8d8d8d;stroke-width:0.21467008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/kindle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="sony reader"
+     style="display:inline;opacity:1">
+    <rect
+       style="fill:#b2b2b2;stroke:#8d8d8d;stroke-width:0.89999998000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="rect3982"
+       width="198.6114"
+       height="293.31607"
+       x="-23.388601"
+       y="316.5798" />
+    <rect
+       style="fill:url(#linearGradient3994);fill-opacity:1;stroke:#8d8d8d;stroke-width:0.89999998000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3986"
+       width="148.76685"
+       height="207.81348"
+       x="-4.6010361"
+       y="331.14975" />
+    <rect
+       style="fill:url(#linearGradient4004);fill-opacity:1;stroke:none"
+       id="rect3996"
+       width="12.269424"
+       height="289.48184"
+       x="161.41969"
+       y="318.11349" />
+    <rect
+       style="fill:#0b0b0b;fill-opacity:1;stroke:none"
+       id="rect4006"
+       width="147.23315"
+       height="7.6683936"
+       x="-3.8341968"
+       y="530.91138" />
+    <rect
+       style="fill:url(#linearGradient4016);fill-opacity:1;stroke:none"
+       id="rect4008"
+       width="3.46943"
+       height="289.89017"
+       x="-23.129534"
+       y="318.38498" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#8d8d8d;stroke-opacity:1"
+       id="path4018"
+       sodipodi:cx="7.0211115"
+       sodipodi:cy="580.1474"
+       sodipodi:rx="18.362907"
+       sodipodi:ry="18.362907"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       transform="translate(1.9803135,0.90014252)" />
+    <path
+       transform="translate(1.9803135,0.90014252)"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       sodipodi:ry="18.362907"
+       sodipodi:rx="18.362907"
+       sodipodi:cy="580.1474"
+       sodipodi:cx="7.0211115"
+       id="path4020"
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient4028);stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:url(#linearGradient4032);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4030"
+       sodipodi:cx="7.0211115"
+       sodipodi:cy="580.1474"
+       sodipodi:rx="18.362907"
+       sodipodi:ry="18.362907"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       transform="translate(125.47987,0.90014252)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#7e7e7e;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4034"
+       sodipodi:cx="133.58115"
+       sodipodi:cy="583.38794"
+       sodipodi:rx="8.8213968"
+       sodipodi:ry="8.8213968"
+       d="m 142.40254,583.38794 a 8.8213968,8.8213968 0 1 1 -17.64279,0 8.8213968,8.8213968 0 1 1 17.64279,0 z"
+       transform="translate(-1.9803135,-2.5203991)" />
+    <rect
+       y="386.2554"
+       x="914.96124"
+       height="71.052986"
+       width="48.111694"
+       id="rect4036"
+       style="fill:#d9d9d9;fill-opacity:1;stroke:#717171;stroke-width:0.21801630999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="389.78485"
+       x="919.51233"
+       height="50.340805"
+       width="36.037334"
+       id="rect4038"
+       style="fill:url(#linearGradient4054);fill-opacity:1;stroke:#8d8d8d;stroke-width:0.21801630999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="386.62698"
+       x="959.72925"
+       height="70.124184"
+       width="2.9721494"
+       id="rect4040"
+       style="fill:url(#linearGradient4056);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="438.17517"
+       x="919.69818"
+       height="1.8575944"
+       width="35.66581"
+       id="rect4042"
+       style="fill:#0b0b0b;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="386.69272"
+       x="915.02405"
+       height="70.223099"
+       width="0.84043586"
+       id="rect4044"
+       style="fill:url(#linearGradient4058);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.24224034,0,0,0.24224034,921.10665,309.78509)"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       sodipodi:ry="18.362907"
+       sodipodi:rx="18.362907"
+       sodipodi:cy="580.1474"
+       sodipodi:cx="7.0211115"
+       id="path4046"
+       style="fill:none;stroke:#8d8d8d;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:url(#linearGradient4060);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4048"
+       sodipodi:cx="7.0211115"
+       sodipodi:cy="580.1474"
+       sodipodi:rx="18.362907"
+       sodipodi:ry="18.362907"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       transform="matrix(0.24224034,0,0,0.24224034,921.10665,309.78509)"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.24224034,0,0,0.24224034,951.02324,309.78509)"
+       d="m 25.384019,580.1474 a 18.362907,18.362907 0 1 1 -36.725815,0 18.362907,18.362907 0 1 1 36.725815,0 z"
+       sodipodi:ry="18.362907"
+       sodipodi:rx="18.362907"
+       sodipodi:cy="580.1474"
+       sodipodi:cx="7.0211115"
+       id="path4050"
+       style="fill:none;stroke:url(#linearGradient4062);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.24224034,0,0,0.24224034,920.14723,308.95649)"
+       d="m 142.40254,583.38794 a 8.8213968,8.8213968 0 1 1 -17.64279,0 8.8213968,8.8213968 0 1 1 17.64279,0 z"
+       sodipodi:ry="8.8213968"
+       sodipodi:rx="8.8213968"
+       sodipodi:cy="583.38794"
+       sodipodi:cx="133.58115"
+       id="path4052"
+       style="fill:none;stroke:#7e7e7e;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/xbelanch/Sites/xbelanch.github.com/images/epub.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

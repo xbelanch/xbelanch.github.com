@@ -6,13 +6,19 @@ title: Xavier Belanche
 <h2>Índice de contenidos</h2>
 <ul class="posts">
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}"> {{ post.title }}</a></li> 
+		<li><span>{{ post.date | date: "%d/%m/%Y" }} </span>&sect; <a href="{{ post.url }}"> {{ post.title }}</a></li> 
 	{% endfor %}
 </ul>
 
 <h2>Llévate los contenidos a otra parte</h2>
 <ul id="devices">
-	<li>Impresos</li>
-	<li>Kindle</li>
-	<li>ePub</li>
+	<div class="outputdevice kindle">
+		<a href="/kindle"><img src="/images/kindle.png">Kindle</a>
+	</div>
+	<div class="outputdevice epub">
+		<a href="/epub"><img src="/images/epub.png">ePub</a>
+	</div>
+	<div class="outputdevice">
+		
+	</div>
 </ul>
