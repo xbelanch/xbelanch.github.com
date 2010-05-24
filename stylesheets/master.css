@@ -1,5 +1,67 @@
 @charset "utf-8";
 
+.site {
+	font-size: 110%;
+	line-height: 1.5em;
+	margin: 3em auto 2em;
+	text-align: justify;
+	width: 40em;
+	
+}
+
+header {
+	text-align: center;
+}
+
+
 h1 {
-	font-size: 180%;
+	font-size: 120%;
+	text-shadow: #666677 0 0 1px;
+	color: #333;
+	font-weight: bold;
+}
+
+h1 a{
+	text-decoration: none;
+	color: #b22222;
+}
+
+h1 a:hover {
+	color: #000;
+}
+
+h2 {
+	font-size: 80%;
+	font-style: italic;
+}
+
+
+/*---- Content ----*/
+
+#content {
+	margin: 3em 5em 3em;
+}
+
+#content h2 {
+	font-size: 120%;
+	font-style: normal;
+	margin-bottom: 2em;
+}
+
+#content p {
+	margin: 1em 0 2em;
+}
+
+
+/*---- footer ----*/
+
+footer {
+	position: fixed;
+	bottom: 0px;
+	height: 25px;
+	background-color: #ccc;
+	text-align: center;
+	color: #3e3e3e;
+	width: 100%;
+	font-size: 80%;
 }
