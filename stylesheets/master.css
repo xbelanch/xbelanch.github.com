@@ -79,6 +79,15 @@ ul#devices li {
 	width: 47px;
 }
 
+.printable {
+	width: 75px;
+}
+
+.android {
+	width: 50px;
+}
+
+
 .outputdevice a {
 	text-decoration: none;
 }
