@@ -5,6 +5,7 @@ server_port: 4567
 pygments:    false
 markdown:    maruku
 permalink:   date
+exclude:     jekyll-epub
 maruku:
   use_tex:    false
   use_divs:   false
