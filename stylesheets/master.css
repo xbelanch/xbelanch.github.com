@@ -4,7 +4,7 @@
 	font-size: 110%;
 	line-height: 1.5em;
 	margin: 3em auto 2em;
-	width: 40em;
+	width: 44em;
 	
 }
 
@@ -118,11 +118,13 @@ ul#devices li {
 #content h1 {
 	font-size: 180%;
 	margin-top: 2em;
+	margin-bottom: 1.5em;
 }
 
 #content h1+p+p {
 	font-size: 150%;
 	margin-bottom: 0.1em;
+	line-height: 1.4;
 }
 
 #content h2 {
@@ -137,7 +139,7 @@ ul#devices li {
 	margin-bottom: 1em;
 }
 
-#content p {
+#content p, #content ul, #content ol {
 	margin: 1em 0 2em;
 	text-align: left;
 }
