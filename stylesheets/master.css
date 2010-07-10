@@ -181,10 +181,14 @@ footer {
 	border-top: 0.4em dotted #ccc;
 }
 
+
 #disqus_thread h3 {
 	font-size: 170%;
 }
 
+#dsq-content .dsq-comment-message {
+	font-size:1.5em;
+}
 
 /*---- instapaper bookmarklet ----*/
 

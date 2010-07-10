@@ -4,6 +4,9 @@ JEKYLL=`which jekyll`
 if [[ -x $JEKYLL ]]; then
 	$JEKYLL --no-auto
 	rsync -r -t  --progress --rsh="ssh -p 44022" -i --delete _site/ xbelanch@xbelanch.net:/var/www/xbelanch/site
+	git add .
+	git commit -m "add a new post and other things"
+	git push origin master
 else
 	echo "You must install Jekyll to deploy"
 	echo "gem install jekyll"
