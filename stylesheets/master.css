@@ -139,9 +139,16 @@ ul#devices li {
 	margin-bottom: 1em;
 }
 
-#content p, #content ul, #content ol {
-	margin: 1em 0 2em;
+#content p, #content ul, #content ol, #content ul ul, #content ul ol, #content ol ol {
+	margin-top: 0.8em;
+	margin-bottom: 1em;
+	padding:0;
 	text-align: left;
+}
+
+ul li, ol li {
+	margin-left: 1em;
+	padding-left: 1em;
 }
 
 #content blockquote {
