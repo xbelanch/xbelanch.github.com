@@ -1,5 +1,8 @@
 *.xml
 *.zip
+*.mobi
+*.epub
+_drafts/
 jekyll/
 jekyll-ext/
 jekyll-epub/
