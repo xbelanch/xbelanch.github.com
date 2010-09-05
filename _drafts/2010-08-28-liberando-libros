@@ -1,0 +1,25 @@
+---
+layout: post
+title: Liberando libros
+---
+
+{{ page.title }}
+================
+
+{{ page.date | date: "%d/%m/%Y"}} &ndash; Barcelona
+
+
+>Personal digitization of books is catching on in Japan as people look to move their book collections to portable devices.
+
+De esta manera tan contundente arranca la noticia [Digital copycats: Personal digitization of books catching on across Japan](http://mdn.mainichi.jp/features/news/20100820p2a00m0na019000c.html).  
+
+
+Servicios:
+
+http://www.blueleaf-book-scanning.com/
+
+Herramientas?
+
+* http://bkrpr.org/blog/
+* http://medialab-prado.es/article/taller_de_digitalizacion
+

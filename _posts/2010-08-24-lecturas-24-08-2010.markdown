@@ -1,0 +1,24 @@
+---
+layout: post
+title: Lecturas intempestivas (1)
+---
+
+{{ page.title }}
+================
+
+{{ page.date | date: "%d/%m/%Y"}} &ndash; Barcelona
+
+Esta entrada es la primera de una serie en la que iré agrupando artículos que voy guardando en el servicio [Instapaper](http://www.instapaper.com/u) y  que, por algún motivo, han llamado mi atención o despertado mi interés personal o profesional de compartirlos. Además de los enlaces a las páginas originales, adjunto también dos archivos, en formato **ePub** (iPhone, iPad, e-Readers que den soporte a este formato,...) y **mobi** (Kindle), generados por el propio servicio Instapaper, para una lectura cómoda, sin el *clutter* visual a que nos tiene acostumbrados la mayoría de la páginas web desde hace un tiempo.
+
+1. [La hipocresía de evangelizar la administración abierta y hacer todo lo contrario](http://gallir.wordpress.com/2010/07/14/la-hipocresia-de-evangelizar-la-administracion-abierta-y-hacer-todo-lo-contrario/)
+2. [5 Huge Trends in Social Media Right Now](http://mashable.com/2010/08/20/top-5-social-media-trends/)
+3. [Kindle, Spofity y la legitimización del DRM como “servicio” « Ricardo Galli, de software libre](http://gallir.wordpress.com/2009/12/13/kindle-spofity-y-la-legitimizacion-del-drm-como-servicio/)
+4. [BBC News - Cult of less: Living out of a hard drive](http://www.bbc.co.uk/news/world-us-canada-10928032)
+5. [The Meaning of Social Reading and Where It’s Headed | Enhanced Ebook University](http://e2bu.com/the-meaning-of-social-reading-and-where-its-headed/)
+6. [The nitty-gritty of whittling down your possessions - Boing Boing](http://www.boingboing.net/2010/08/17/the-nitty-gritty-of.html)
+7. [Good Help is Hard to Find](http://www.alistapart.com/articles/good-help-is-hard-to-find/)
+8. [Apps vs. the Web](http://www.alistapart.com/articles/apps-vs-the-web/)
+
+
+
+Descarga el archivo de lectura para iPhone, iPad o cualquier e-Reader que soporte el formato [ePub](/lectures/Instapaper-24deAgostode2010-2010-08-23.epub) o, el archivo [mobi](/lectures/Instapaper-24deAgostode2010-2010-08-23.mobi), formato compatible con el Kindle, el e-Reader de Amazon. 
