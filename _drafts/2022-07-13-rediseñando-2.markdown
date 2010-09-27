@@ -9,8 +9,22 @@ Diferentes temas pendientes que han de mejorar el entorno de producción y edici
 * Editor de tablas? http://forum.dokuwiki.org/thread/5765
 * Contar espacios? http://www.dokuwiki.org/tips:wordcounter
 * Rediseñar la web
-* Para la documentación: http://www.dokuwiki.org/tips:good_style
 * Lazy Editors: http://wiki.plattsalat.de/doku.php?id=wiki:openofficemacro
+
+
+El largo camino del HTML a PDF
+==============================
+
+¿El adiós a PISA?
+----------------
+
+
+http://www.alistapart.com/articles/boom
+http://eegg.wordpress.com/2010/01/17/html-to-pdf/
+
+http://thinkrelevance.com/blog/2010/06/15/rethinking-pdf-creation-in-ruby.html
+
+
 
 
 Den a la wiki lo que es de la wiki
