@@ -2,3 +2,5 @@
 *.mobi
 *.epub
 _site/
+jekyll
+lectures
