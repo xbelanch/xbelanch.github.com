@@ -3,7 +3,7 @@ auto:        true
 lsi:         false
 server_port: 4567
 pygments:    false
-markdown:    maruku
+markdown:    rdiscount
 permalink:   date
 exclude:     
     - jekyll-epub
