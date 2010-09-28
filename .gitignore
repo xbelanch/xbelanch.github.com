@@ -1,9 +1,4 @@
 *.zip
 *.mobi
 *.epub
-_drafts/
-jekyll/
-jekyll-ext/
-jekyll-epub/
 _site/
-_epub/
